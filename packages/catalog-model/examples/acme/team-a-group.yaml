@@ -68,6 +68,6 @@ annotations:
 spec:
   profile:
     displayName: Kin Cheung
-    email: guest@example.com
+    email: kinyung.cheung@zuhlke.com
     picture: https://avatars.dicebear.com/api/avataaars/guest@example.com.svg?background=%23fff
   memberOf: [team-a]
