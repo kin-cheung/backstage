@@ -62,7 +62,8 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: kincheung-zuhlke
+  name: kin.cheung
+annotations:
   bitbucket.org/username: kincheung-zuhlke
 spec:
   profile:
