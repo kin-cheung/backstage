@@ -3,6 +3,7 @@ kind: API
 metadata:
   name: petstore
   description: The petstore API
+  system: petshop-portal
   tags:
     - store
     - rest
